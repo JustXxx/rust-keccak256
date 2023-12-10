@@ -1,0 +1,4 @@
+# build the image:
+```
+wasm-pack build --release --out-name rust-sdk-test.wasm --out-dir pkg
+```
